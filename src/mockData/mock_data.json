@@ -1,0 +1,202 @@
+[
+  {
+    "nombre": "Bandeja Paisa",
+    "descripcion": "Arroz, frijoles, chicharrón, carne molida, chorizo, huevo frito, plátano maduro, arepa y aguacate.",
+    "precio": 25000,
+    "categoría": "Plato fuerte",
+    "imagen": "/platos/bandeja_paisa.webp",
+    "stock": 20
+  },
+  {
+    "nombre": "Ajiaco",
+    "descripcion": "Sopa de pollo con papas, mazorca, guascas, alcaparras y crema de leche, servida con arroz y aguacate.",
+    "precio": 20000,
+    "categoría": "Plato fuerte",
+    "imagen": "/platos/ajiaco.webp",
+    "stock": 15
+  },
+  {
+    "nombre": "Sancocho",
+    "descripcion": "Sopa espesa de carne (res, pollo o cerdo), con yuca, plátano, papa y mazorca.",
+    "precio": 22000,
+    "categoría": "Plato fuerte",
+    "imagen": "/platos/sancocho.webp",
+    "stock": 18
+  },
+  {
+    "nombre": "Lechona",
+    "descripcion": "Cerdo relleno de arroz, arvejas y especias, cocido lentamente y servido con arepas.",
+    "precio": 27000,
+    "categoría": "Plato fuerte",
+    "imagen": "/platos/lechona.webp",
+    "stock": 10
+  },
+  {
+    "nombre": "Tamales",
+    "descripcion": "Masa de maíz rellena de carne, pollo, vegetales y especias, envuelta en hojas de plátano y cocida al vapor.",
+    "precio": 18000,
+    "categoría": "Plato fuerte",
+    "imagen": "/platos/tamales.webp",
+    "stock": 25
+  },
+  {
+    "nombre": "Arroz con Pollo",
+    "descripcion": "Arroz mezclado con pollo desmenuzado, verduras y especias.",
+    "precio": 16000,
+    "categoría": "Plato fuerte",
+    "imagen": "/platos/arroz_pollo.webp",
+    "stock": 30
+  },
+  {
+    "nombre": "Chuleta Valluna",
+    "descripcion": "Chuleta de cerdo empanizada y frita, servida con arroz y ensalada.",
+    "precio": 22000,
+    "categoría": "Plato fuerte",
+    "imagen": "/platos/Chuleta_valluna.webp",
+    "stock": 12
+  },
+  {
+    "nombre": "Pescado Frito",
+    "descripcion": "Pescado entero frito, acompañado de patacones, arroz con coco y ensalada.",
+    "precio": 24000,
+    "categoría": "Plato fuerte",
+    "imagen": "/platos/pescado_frito.webp",
+    "stock": 10
+  },
+  {
+    "nombre": "Cazuela de Mariscos",
+    "descripcion": "Estofado cremoso de mariscos, con leche de coco y especias.",
+    "precio": 28000,
+    "categoría": "Plato fuerte",
+    "imagen": "/platos/cazuela_mariscos.webp",
+    "stock": 8
+  },
+  {
+    "nombre": "Carne a la Llanera",
+    "descripcion": "Carne de res asada al estilo llanero, servida con yuca, plátano y papas.",
+    "precio": 25000,
+    "categoría": "Plato fuerte",
+    "imagen": "/platos/carne_llanera.webp",
+    "stock": 15
+  },
+  {
+    "nombre": "Arepas rellenas",
+    "descripcion": "Tortillas de maíz, simples o rellenas de queso, carne o pollo.",
+    "precio": 6000,
+    "categoría": "Entrada",
+    "imagen": "/platos/arepas_rellenas.webp",
+    "stock": 50
+  },
+  {
+    "nombre": "Empanadas",
+    "descripcion": "Empanadas fritas rellenas de carne, pollo, papa o queso.",
+    "precio": 3000,
+    "categoría": "Entrada",
+    "imagen": "/platos/empanadas_rellenas.webp",
+    "stock": 60
+  },
+  {
+    "nombre": "Patacones",
+    "descripcion": "Plátanos verdes fritos, aplastados y fritos nuevamente, servidos con hogao o guacamole.",
+    "precio": 5000,
+    "categoría": "Entrada",
+    "imagen": "/platos/patacones.webp",
+    "stock": 40
+  },
+  {
+    "nombre": "Pandebonos",
+    "descripcion": "Pequeños panes de queso, típicos del Valle del Cauca.",
+    "precio": 4000,
+    "categoría": "Entrada",
+    "imagen": "/platos/pandebonos.webp",
+    "stock": 30
+  },
+  {
+    "nombre": "Buñuelos",
+    "descripcion": "Bolitas de masa de queso fritas, crujientes por fuera y suaves por dentro.",
+    "precio": 2000,
+    "categoría": "Entrada",
+    "imagen": "/platos/buñuelos.webp",
+    "stock": 45
+  },
+  {
+    "nombre": "Arroz con Leche",
+    "descripcion": "Postre cremoso de arroz cocido con leche, azúcar y canela.",
+    "precio": 7000,
+    "categoría": "Postres",
+    "imagen": "/platos/arroz_con_leche.webp",
+    "stock": 25
+  },
+  {
+    "nombre": "Natilla",
+    "descripcion": "Postre de maíz con leche, azúcar y canela, tradicional en Navidad.",
+    "precio": 8000,
+    "categoría": "Postres",
+    "imagen": "/platos/natilla.webp",
+    "stock": 20
+  },
+  {
+    "nombre": "Brevas con Arequipe",
+    "descripcion": "Higos en almíbar, servidos con dulce de leche.",
+    "precio": 9000,
+    "categoría": "Postres",
+    "imagen": "/platos/brevas_con_arequipe.webp",
+    "stock": 15
+  },
+  {
+    "nombre": "Obleas",
+    "descripcion": "Wafles delgados rellenos de arequipe, queso, mermelada o coco.",
+    "precio": 5000,
+    "categoría": "Postres",
+    "imagen": "/platos/oblea.webp",
+    "stock": 35
+  },
+  {
+    "nombre": "Torta de Tres Leches",
+    "descripcion": "Bizcocho esponjoso empapado en una mezcla de tres leches y cubierto con merengue.",
+    "precio": 10000,
+    "categoría": "Postres",
+    "imagen": "/platos/torta_tres_leches.webp",
+    "stock": 10
+  },
+  {
+    "nombre": "Jugo de Lulo",
+    "descripcion": "Refresco natural de lulo, servido frío.",
+    "precio": 6000,
+    "categoría": "Bebidas",
+    "imagen": "/platos/jugo_lulo.webp",
+    "stock": 40
+  },
+  {
+    "nombre": "Jugo de Maracuyá",
+    "descripcion": "Refresco natural de maracuyá, servido frío.",
+    "precio": 6000,
+    "categoría": "Bebidas",
+    "imagen": "/platos/jugo_maracuya.webp",
+    "stock": 40
+  },
+  {
+    "nombre": "Limonada de Coco",
+    "descripcion": "Refresco de limón y coco, servido frío.",
+    "precio": 7000,
+    "categoría": "Bebidas",
+    "imagen": "/platos/limonada_de_coco.webp",
+    "stock": 30
+  },
+  {
+    "nombre": "Refresco de Mora",
+    "descripcion": "Jugo natural de mora, servido frío.",
+    "precio": 6000,
+    "categoría": "Bebidas",
+    "imagen": "/platos/Jugo_De_Mora.webp",
+    "stock": 35
+  },
+  {
+    "nombre": "Jugo de Guayaba",
+    "descripcion": "Refresco natural de guayaba, servido frío.",
+    "precio": 6000,
+    "categoría": "Bebidas",
+    "imagen": "/platos/jugo_guayaba.webp",
+    "stock": 40
+  }
+]
