@@ -43,14 +43,14 @@ export default function Contacto() {
             <h2 className="text-2xl font-semibold text-orange-600 mb-4">Información</h2>
             <ul className="space-y-3 text-gray-700">
               <li>📍 <strong>Dirección:</strong> Avenida al hospital, Sahagún - Córdoba</li>
-              <li>📞 <strong>Teléfono:</strong> <a href="tel:+573001234567" className="text-orange-600 hover:underline">+57 300 123 4567</a></li>
+              <li>📞 <strong>Teléfono:</strong> <a href="tel:+573016838490" className="text-orange-600 hover:underline">+57 300 123 4567</a></li>
               <li>📧 <strong>Email:</strong> <a href="mailto:info@restaurante.com" className="text-orange-600 hover:underline">info@restaurante.com</a></li>
             </ul>
 
             {/* 🕓 Horario */}
             <div className="mt-6">
               <h3 className="text-xl font-semibold text-orange-600 mb-2">Horario de Atención 🕒</h3>
-              <p>Lunes a Domingo: <strong>10:00 AM - 10:00 PM</strong></p>
+              <p>Lunes a Domingo: <strong>08:00 AM - 10:00 PM</strong></p>
             </div>
 
             {/* 🌐 Redes sociales */}

@@ -51,7 +51,7 @@ export function Summary({ orderData }: IProps) {
       message += `%0A💰 *Total:* $${numberFormatter(total)}%0A%0A🙏 ¡Gracias por tu compra!`
 
       const number =
-        orderData.typeOrder === 'atHome' ? '573016838490' : '573002224455'
+        orderData.typeOrder === 'atHome' ? '573016838490' : '573016838490' // Número de WhatsApp
 
       setUrlMessage(`https://wa.me/${number}?text=${encodeURIComponent(message)}`)
     }
